@@ -1,16 +1,17 @@
-# diwali_lamp
-
-A Diwali Lamp E-commerce app. UI found online
+# Diwali Lamp Ecommerce Application with Flutter
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Ui Images
+---
+1.
+![Onboarding](https://user-images.githubusercontent.com/56981537/170539092-038bd27b-3387-40e5-819d-4b185e07c026.png)
+---
+2.
+![Home](https://user-images.githubusercontent.com/56981537/170539196-adba016e-a381-481a-8c66-ec69bda31378.png)
+---
+3.
+![Product Detail](https://user-images.githubusercontent.com/56981537/170539218-2be195be-8f0c-4a8c-b13c-1bde45676037.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
